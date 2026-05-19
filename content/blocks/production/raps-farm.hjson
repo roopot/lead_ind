@@ -18,7 +18,7 @@ requirements: [
 	copper/70
 ]
 category: "crafting"
-research: "melter"
+research: "fitogen-lamp"
 ambientSound: "respawning"
 ambientSoundVolume: 0.5
 outputItem: raps/1
