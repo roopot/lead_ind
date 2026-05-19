@@ -14,7 +14,7 @@ requirements: [
 	lead/5
 ]
 category: "crafting"
-research: "raps-farm"
+research: "fitogen-lamp"
 ambientSound: "respawning"
 ambientSoundVolume: 0.5
 outputItem: compost/1
